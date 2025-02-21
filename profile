@@ -5,8 +5,8 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # path set by /etc/profile
-PATH="/home/root/test-mas/gpios/bin:$PATH"
-PATH="/home/root/test-mas:$PATH"
+PATH="/root/test-mas/gpios/bin:$PATH"
+PATH="/root/test-mas:$PATH"
 PATH="/sbin:$PATH"
 PATH="/usr/sbin:$PATH"
 PATH="$HOME:$PATH"
