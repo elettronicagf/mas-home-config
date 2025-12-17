@@ -2,5 +2,5 @@
 Name=eth1
 
 [Network]
-DHCP=ipv4
+DHCP=yes
 
